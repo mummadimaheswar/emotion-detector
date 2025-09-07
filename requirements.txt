@@ -1,5 +1,6 @@
 Flask==2.3.3
-transformers==4.35.0
+transformers==4.42.3
+tokenizers==0.19.1
 torch==2.5.1
 sentencepiece==0.1.99
 protobuf==4.24.4
